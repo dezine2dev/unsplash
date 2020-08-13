@@ -1,0 +1,5 @@
+export const SET_USERS = 'SET_USERS';
+export const APPEND_USERS = 'APPEND_USERS';
+export const SET_NOTIFICATION = 'SET_NOTIFICATION';
+export const SET_PHOTOS = 'SET_PHOTOS';
+export const APPEND_PHOTOS = 'APPEND_PHOTOS';
